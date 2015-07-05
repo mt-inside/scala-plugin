@@ -4,5 +4,5 @@ import scalaPlugin.core.Plugin
 
 class SamplePlugin extends Plugin
 {
-  def quack = "bark!"
+  def quack = "bark! (SamplePlugin1)"
 }
