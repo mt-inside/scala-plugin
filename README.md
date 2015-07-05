@@ -1,2 +1,2 @@
-pushd plugins && sbt package && popd
-cd core && sbt run
+    pushd plugins && sbt package && popd
+    cd core && sbt run
